@@ -20,10 +20,7 @@ Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
 * 💡  <b>I've done:</b> full stack web development, game development, uipath automation
 * 🌱 <b>I'm currently practicing:</b> more web development
 * ⚡ <b>I want to learn:</b> mobile app development, UI/UX, game engine development
+* 💬 <b>Languages & skills:</b> C++, C#, Unity Game Engine, UiPath, HTML/CSS, Java, Python, Javascript, Django, Agile Methodologies
 
 <br>
 See my <a href="https://ls-yu.github.io">website</a> for a full list of work experience & projects (including ones not on my Github!)
-
-<p></p>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&langs_count=8&theme=tokyonight)]()
