@@ -24,5 +24,5 @@ Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
 <br>
 See my <a href="https://ls-yu.github.io">website</a> for a full list of work experience & projects (including ones not on my Github!)
 
-<br>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&langs_count=5&theme=tokyonight)]()
