@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ls-yu/ls-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Welcome!</h1>
+
+Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
+
+* 💡  <b>I've done:</b> full stack web development, game development, uipath automation
+* 🌱 <b>I'm currently practicing:</b> more web development
+* ⚡ <b>I want to learn:</b> mobile app development, UI/UX, game engine development
+<a href="https://ls-yu.github.io">See My Website</a>
