@@ -23,4 +23,4 @@ Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
 * 💬 <b>Languages & skills:</b> C++, C#, Unity Game Engine, UiPath, HTML/CSS, Java, Python, Javascript, Django, Agile Methodologies
 
 <br>
-See my <a href="https://ls-yu.github.io">website</a> for a full list of work experience & projects (including ones not on my Github!)
+See my <a href="https://ls-yu.github.io">website</a> for a full list of work experience & published projects (including ones not on my Github!)
