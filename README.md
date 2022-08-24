@@ -25,4 +25,4 @@ Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
 See my <a href="https://ls-yu.github.io">website</a> for a full list of work experience & projects (including ones not on my Github!)
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&layout=compact&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
