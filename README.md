@@ -26,4 +26,4 @@ See my <a href="https://ls-yu.github.io">website</a> for a full list of work exp
 
 <p></p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-yu&langs_count=8&theme=tokyonight)]()
