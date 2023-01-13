@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
 
 * 💡  <b>I've done:</b> full stack web development, game development, uipath automation
-* 🌱 <b>I'm currently practicing:</b> UI/UX design, more web development
-* ⚡ <b>I want to learn:</b> mobile app development, UI/UX, game engine development
+* 🌱 <b>I'm currently learning:</b> game engine development
+* ⚡ <b>I want to learn:</b> mobile app development
 * 💬 <b>Languages & skills:</b> C++, C#, Unity Game Engine, UiPath, HTML/CSS, Java, Python, Javascript, Django, Agile Methodologies, Figma
 
 <br>
