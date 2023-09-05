@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1>Welcome!</h1>
 
-Hello, I’m Lex! I'm a third year <b>Computer Science + Games</b> major.
+Hello, I’m Lex! I'm a fourth year <b>Computer Science + Games</b> major. I'll be graduating with a BS in Winter 2024 and MS in Computer Science in Spring 2025.
 
 * 💡  <b>I've done:</b> full stack web development, game development, uipath automation
 * 🌱 <b>I'm currently learning:</b> game engine development
